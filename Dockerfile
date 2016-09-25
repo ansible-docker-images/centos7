@@ -1,4 +1,3 @@
-# Latest version of centos
 FROM centos:centos7
 MAINTAINER Ernestas Poskus <hierco@gmail.com>
 RUN yum clean all && \
